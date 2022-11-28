@@ -12,3 +12,12 @@
 >2. [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 >3. [“Russia”, “Denmark”, “Kazan”] → []
 ____
+
+# Решение #
+## 1. Создан репозиторий [ControlWorkBaevKirill](https://github.com/Kirrr-ill/ControlWorkBaevKirill.git). 
+>git init  
+git add README.md  
+git commit -m "first commit"  
+git branch -M main  
+git remote add origin https://github.com/Kirrr-ill/ControlWorkBaevKirill.git  
+>git push -u origin main
