@@ -14,10 +14,11 @@
 ____
 
 # Решение #
-## 1. Создан репозиторий [ControlWorkBaevKirill](https://github.com/Kirrr-ill/ControlWorkBaevKirill.git). 
+## 1. Создан репозиторий [ControlWorkBaevKirill](https://github.com/Kirrr-ill/ControlWorkBaevKirill.git).  
 >git init  
 git add README.md  
-git commit -m "first commit"  
-git branch -M main  
+git commit -m "first commit"   
 git remote add origin https://github.com/Kirrr-ill/ControlWorkBaevKirill.git  
->git push -u origin main
+>git push -u origin master
+## 2. Нарисована блок схема решения алгоритма. ## ![Блок-схема](images/Shem.png)
+
