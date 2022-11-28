@@ -20,5 +20,6 @@ git add README.md
 git commit -m "first commit"   
 git remote add origin https://github.com/Kirrr-ill/ControlWorkBaevKirill.git  
 >git push -u origin master
-## 2. Нарисована блок схема решения алгоритма. ## ![Блок-схема](images/Shem.png)
-
+## 2. Нарисована блок схема решения алгоритма. ## 
+[Ссылка на схему](https://drive.google.com/file/d/1DGYp5ZgiZ-xsUd2v83XV1fNbQR4_Lnvw/view?usp=sharing)
+![Блок-схема](images/Shem.png)
